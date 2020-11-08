@@ -65,6 +65,16 @@ See above. This repository hosts all mt daily Tiny Tower session pictures. I cur
 
 These daily pictures are to be used for progress monitoring, but can also be used as stock images. You can learn more about Tiny Tower by [clicking/tapping here](https://en.wikipedia.org/wiki/Tiny_Tower).
 
+I started playing Tiny Tower Vegas again on January 14th 2020. Currently, images on my local hard drive span from January 14th 2020 to March 28th 2020, but there are some extra images up until a little past day 100, when I stopped playing. I played the game in the past before the Mobage shutdown, but didn't get very far (6 floors) I quit playing this game due to:
+
+> * Lack of interest
+
+> * Time issues
+
+> * Inability to cloud save
+
+> * A huge loss of progress in another game sometime in April/May/June 2020.
+
 ***
 
 ## Wiki
@@ -85,7 +95,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 399 commits (As of Saturday, November 7th 2020 at 9:50 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 401 commits (As of Sunday, November 8th 2020 at 12:53 pm)
 
 > * 2. No other contributers.
 
@@ -95,7 +105,17 @@ Currently, I am the only contributer. Contributing is not allowed, as this is a 
 
 ### Current issues
 
-None at the moment
+[Kept naming error] Original 3.13.2020 is actually March 12th 2020 bug documentation
+[#4](#4) opened x days ago by [seanpm2001](https://github.com/seanpm2001/)
+@seanpm2001
+[Final 2020] The final data of 2020 up to day 1XX is missing bug documentation enhancement
+[#3](#3) opened x days ago by [seanpm2001](https://github.com/seanpm2001/)
+@seanpm2001
+[March 2020] Data for March 30th and 31st missing bug documentation enhancement
+[#2](#2) opened x days ago by [seanpm2001](https://github.com/seanpm2001/)
+@seanpm2001
+[January 2020] Data for January 15th 2020 is missing bug documentation enhancement good first issue
+[#1](#1) opened x days ago by [seanpm2001](https://github.com/seanpm2001/)
 
 ### Past issues
 
@@ -131,9 +151,9 @@ Project language file [Click/tap here](PROJECT_LANG.e)
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Saturday, November 7th 2020 at 9:50 pm)`
+File version: `2 (Sunday, November 8th 2020 at 12:53 pm)`
 
-Line count: `0,193`
+Line count: `0,234`
 
 ***
 
@@ -175,14 +195,35 @@ Version 1 (Saturday, November 8th 2020 at 9:50 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Sunday, November 8th 2020 at 12:53 pm)
+
+> Changes:
+
+> * Updated the release notes
+
+> * Added release note templates for v3 and v4
+
+> * Updated the issues section
+
+> * Updated the about section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
 
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 ***
 
 ### You have reached the end of the README file
