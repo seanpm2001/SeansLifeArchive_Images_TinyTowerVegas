@@ -85,9 +85,15 @@ I started playing Tiny Tower Vegas again on January 14th 2020. Currently, images
 
 ## Version history
 
-Unavailable
+1. [Milestone 5 Version 1.0A (M5V1.0A)](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/releases/tag/M5V1.0A)
 
-[More versions coming soon](https://www.example.com)
+> Commits: 402 (released: November 8th 2020 at 12:57 pm)
+
+2. [Milestone 5 Version 1.0B (M5V1.0B)](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/releases/tag/M5V1.0B)
+
+> Commits: 499 (released: November 8th 2020 at 1:30 pm)
+
+3. [More versions coming soon](https://www.example.com)
 
 ***
 
@@ -95,7 +101,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 401 commits (As of Sunday, November 8th 2020 at 12:53 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 502 commits (As of Sunday, November 8th 2020 at 3:53 pm)
 
 > * 2. No other contributers.
 
@@ -135,7 +141,7 @@ None at the moment
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
 
 ***
 
@@ -145,15 +151,17 @@ Links to Tiny Tower Vegas sources [Click/tap here](Links.md)
 
 Project language file [Click/tap here](PROJECT_LANG.e)
 
+No other resources at the moment.
+
 ***
 
 ## About README
 
 File type: `Markdown (*.md)`
 
-File version: `2 (Sunday, November 8th 2020 at 12:53 pm)`
+File version: `3 (Sunday, November 8th 2020 at 3:53 pm)`
 
-Line count: `0,234`
+Line count: `0,250`
 
 ***
 
@@ -209,11 +217,19 @@ Version 2 (Sunday, November 8th 2020 at 12:53 pm)
 
 > * No other changes in version 2
 
-Version 3 (coming soon)
+Version 3 (Sunday, November 8th 2020 at 3:53 pm)
 
 > Changes:
 
-> * Coming soon
+> * Updated the resources section
+
+> * Updated the releases section
+
+> * Updated the contributers section
+
+> * Updated the CONTRIBUTING section
+
+> * Updated the version 3 change log
 
 > * No other changes in version 3
 
