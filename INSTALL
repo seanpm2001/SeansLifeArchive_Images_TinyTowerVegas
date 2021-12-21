@@ -1,0 +1,24 @@
+---
+Installing this Git-image project by @seanpm2001
+---
+
+<!--
+
+This project currently doesn't have to be installed to be viewed, and currently doesn't require installation, it is a collection of images, and does not contain source code other than the project language file.
+
+If you want to view the project language file, you will need an Eiffel interpreter/compilr.
+
+If you want to view the image files, the majority of files are in JPG format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, and PNG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+!-->
+
+Install instructions need to be added manually.
+
+---
+Install instructions file version: 1 (Monday, 2021 December 20th at 8:17 pm)
+---
